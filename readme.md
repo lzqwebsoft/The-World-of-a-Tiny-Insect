@@ -7,7 +7,7 @@
 > 《微虫世界不分卷》清张大野撰，清光绪间著，手定稿本，楷书带行。
 > 兹编自序云：“从微虫声中，听出大千世界，以微虫与世界相对待而言。”，此书所述，皆当时闻见，其中于洪杨之乱，尤叙说缕缕，盖说贼害，以陈治民之道也，序末谓：“圣人之为世界，或有取焉。”，一本篇之旨，或在此欤。字迹甚工，略有虫蛀。
 
-[《The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath》](https://uwapress.uw.edu/book/9780295993188/the-world-of-a-tiny-insect/) 整理的[年表及旅行地图](https://github.com/lzqwebsoft/The-World-of-a-Tiny-Insect/blob/main/chronology.md)。
+[《The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath》](https://uwapress.uw.edu/book/9780295993188/the-world-of-a-tiny-insect/) 整理的[年表及旅行地图](/chronology.md)。
 
 ## 序
 

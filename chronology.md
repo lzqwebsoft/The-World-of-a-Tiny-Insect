@@ -2,7 +2,7 @@
 
 说明：来自于哈佛大学中国文学教授[田晓菲](https://zh.wikipedia.org/zh-hans/%E7%94%B0%E6%99%93%E8%8F%B2])，[《微虫世界：回忆太平天国叛乱及其后果》](https://uwapress.uw.edu/book/9780295993188/the-world-of-a-tiny-insect/)一书整理翻译而得。
 
-![封面]("https://github.com/lzqwebsoft/The-World-of-a-Tiny-Insect/blob/main/cover.jpg?raw=true")
+![封面](/cover.jpg)
 
 ### 1854
 
@@ -118,4 +118,4 @@
 
 # 作者旅行地图
 
-![旅行地图]("https://github.com/lzqwebsoft/The-World-of-a-Tiny-Insect/blob/f161665cf6cebe5d6ab084f862d015302b9c32e6/map.png?raw=true")
+![旅行地图](/map.png)
